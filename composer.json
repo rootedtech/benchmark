@@ -1,0 +1,6 @@
+{
+  "name": "benchmark",
+  "require": {
+    "rootedtech/phpbench": "*.*"
+  }
+}
